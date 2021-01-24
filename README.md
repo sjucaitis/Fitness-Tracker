@@ -1,6 +1,6 @@
 # Fitness-Tracker
 
-This NoQL application utilizes a Mongo database / Mongoose schema (with Express routes).
+This NoSQL application utilizes a Mongo database / Mongoose schema (with Express routes).
 
 ## User Story
 
